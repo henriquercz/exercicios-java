@@ -44,7 +44,7 @@ public class ContaCorrente {
             return;
         }
 
-        if (valor == null || valor <= 0.0) {
+        if (valor == null || valor == 0.0) {
             return;
         }
 
